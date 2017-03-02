@@ -1,10 +1,4 @@
 {
-    "name": "lukeyan/adminTPL",
-    "description": "An easy admin template",
-    "require": {
-    }
-}
-{
   "name": "lukeyan/adminTPL",
   "description": "adminTPL -- Based on AdminLTE , admin control panel and dashboard that's based on Bootstrap 3",
   "homepage": "http://www.sanliangbaby.com/",
