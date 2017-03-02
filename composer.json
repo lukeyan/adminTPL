@@ -1,6 +1,32 @@
 {
-    "name": "lukeyan/avatagear.com",
-    "description": "A short description of what your package does",
+    "name": "lukeyan/adminTPL",
+    "description": "An easy admin template",
     "require": {
     }
+}
+{
+  "name": "lukeyan/adminTPL",
+  "description": "adminTPL -- Based on AdminLTE , admin control panel and dashboard that's based on Bootstrap 3",
+  "homepage": "http://www.sanliangbaby.com/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "lukeyan",
+      "email": "lukeyan2008@gmail.com"
+    }
+  ],
+  "license": "Apache License",
+  "support": {
+    "issues": "https://github.com/lukeyan/adminTPL/issues"
+  }
 }
